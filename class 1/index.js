@@ -1,0 +1,5 @@
+console.log(2 * 6)
+console.log(7 + 4)
+console.log("Kashan")
+console.log("My age is 15 ")
+console.log("My occupation is programming")
