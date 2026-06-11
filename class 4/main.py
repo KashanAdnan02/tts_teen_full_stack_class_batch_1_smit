@@ -36,3 +36,41 @@
 
 # if condition:
 #     // code
+
+
+
+#  conditional operator
+
+#  >  greater than
+#  <  less than
+#  >=
+#  <=
+#  ==
+#  !=
+
+# marks = 95
+# if marks >= 90:
+#     print("A+ Grade")
+
+
+
+# marks = 30
+
+# if marks <= 90:
+#     print("C grade")
+
+
+
+
+# name1 = "green"
+# name2 = "green"
+
+# if name1 == name2 :
+#     print("name1 is same as name2")
+
+inputPassword = "Secrect@password"
+
+savedPassword = "Secrect@password"
+
+if savedPassword == inputPassword:
+    print("Login succesfull")
